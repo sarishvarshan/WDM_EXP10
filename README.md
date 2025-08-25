@@ -1,6 +1,6 @@
 ### EX NO : 10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### Name : SARISH VARSHAN V
-### Reg NO : 212223230196
+### Reg No : 212223230196
 ### Date: 25.08.2025
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
